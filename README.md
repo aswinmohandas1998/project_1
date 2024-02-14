@@ -1,1 +1,1 @@
-# project_1
+# Wedding Event Website
